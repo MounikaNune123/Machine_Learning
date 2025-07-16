@@ -18,4 +18,5 @@ in making informed credit decisions, reducing loan defaults, and managing financ
 -Python (Pandas, Scikit-learn, NumPy, Matplotlib)
 
 -Power BI for data visualization
-
+- Machine Learning Models (SVM,Logistic Regression,Decision tree classifier,random forest classifier,XGBoost)
+- libraries for machine learning like(simpleimputer,metrics,scikit learn)
